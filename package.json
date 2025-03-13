@@ -1,0 +1,15 @@
+{
+  "name": "file-search-utility",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "cli-progress": "^3.12.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
